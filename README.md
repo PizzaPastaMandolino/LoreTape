@@ -4,4 +4,4 @@ LoreTape Site inspired by [DarioMocciaTwitch](https://www.twitch.tv/dariomocciat
 ## Important
 :bangbang: **I created this website for fun, you can edit it as you like, just don't resell it.** :bangbang:
 
-[Preview](https://uwugino.altervista.org/)
+[Preview](https://topsecret001.netlify.app/)
